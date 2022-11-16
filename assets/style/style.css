@@ -182,6 +182,57 @@ body{
     margin-bottom: 165px;
 }
 /*  <!-- proffil section two man -->  */
-.proffil .card-body{
+.proffil .card-body p {
+    padding:84px 25px 10px 47px;
+    color: #000000;
+}
+/* <!-- arrow btn section  --> */
+.arreo-bton{
+    border:1px solid #3E86F5 !important;
+    color:  #3E86F5 !important;
+    border-radius:15px !important;
+    margin-top:85px;
+}
+/* <!-- Register section --> */
+.register{
+    border-radius: 100px;
+    margin-bottom:123px;
+}
+
+.register h1{
+    margin:114px 219px 40px 218px;
+    color: white;
+  
+}
+.register .btn{
+    margin-bottom:115px;
+    padding:25px 35px;
+    background-color:white;
+    color: #3E86F5;
+    border-radius:25px;
+   
+}
+
+/* <!--========================================================--> */
+/* <!-- this is footer start --> */
+
+.footer-line{
+    margin-bottom:58px;
     
+}
+.footer-line a{
+    color:gray;
+    text-decoration: none;
+}
+.footer-line .nav-link{
+    color: gray;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.75);
+    
+
+
 }
