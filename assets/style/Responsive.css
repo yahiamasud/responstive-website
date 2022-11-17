@@ -3,24 +3,219 @@
 
 
 
+/* ============================================================================== */
+   /* =============this is max-with:1399.98px================= */
+
+
 @media (max-width: 1399.98px) {
 
 
+        /* this is header */
+        /* =================== */
+
+
+    .loge h1{
+       /* <!-- logo --> */
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 72px;
+    }
+    /* <!-- nav-bar --> */
+    .nav .nav-item .nav-link{
+        border-radius:10px;
+        font-weight: 500;
+        font-size: 24px;
+         line-height: 36px;
+        
+    }
+    /* <!-- discover your life --> */
+    .discover-text h1{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 96px;
+    
+ }
+    .discover-text p{
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 200%;
+        padding-bottom:289px;
+    }
+
+    /*   <!--========================================================-->
+                <!-- this is main start --> */
 }
+/* ============================================================================== */
+   /* =============this is max-with:1199.98px================= */
+
 
 @media (max-width: 1199.98px) {
 
+            /* this is header */
+        /* =================== */
 
+
+           /* <!-- logo --> */
+    .loge h1{
+       
+        font-weight: 400;
+        font-size: 38px;
+        line-height: 62px;
+    }
+
+
+        /* <!-- nav-bar --> */
+    .nav .nav-item .nav-link{
+        border-radius:10px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 36px;
+        }
+          /* <!-- discover your life --> */
+    .discover-text h1{
+        font-weight: 500;
+        font-size: 74px;
+        line-height: 86px;
+        
+     }
+     .discover-text p{
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 150%;
+        padding-bottom:250px;
+    }
+    /* <!--travel section  -->  */
+    .img-constom{
+       margin-right: 10px !important;
+    }
+    /*   <!--========================================================-->
+                <!-- this is main start --> */
 }
+/* ============================================================================== */
+   /* =============this is max-with:991.98px================= */
+
 @media (max-width: 991.98px) {
+          /* this is header */
+        /* =================== */
+
+    /* <!-- logo --> */
+    .loge h1{
+      
+        font-weight: 300;
+        font-size: 28px;
+        line-height: 52px;
+    }
 
 
-}
-@media (max-width: 767.98px) {
-
-
-}
-@media (max-width: 575.98px) {
-
+    /* <!-- nav-bar --> */
+    .nav .nav-item .nav-link{
+            border-radius:10px;
+            font-weight: 300;
+            font-size: 20px;
+            line-height: 15px;
+                
+            }
+    /* <!-- discover your life --> */
+    .discover-text h1{
+        font-weight: 400;
+        font-size: 54px;
+        line-height: 76px;
+        
+     }
+     .discover-text p{
+        font-weight: 300;
+        font-size: 14px;
+        line-height:100%;
+        padding-bottom:200px;
+    }
     
+    /*   <!--========================================================-->
+                <!-- this is main start --> */
+}
+
+/* ============================================================================== */
+   /* =============this is max-with:767.98px================= */
+
+@media (max-width: 767.98px) {
+          /* this is header */
+        /* =================== */
+
+    /* <!-- logo --> */
+    .loge h1{
+     
+        font-weight: 200;
+        font-size: 18px;
+        line-height: 42px;
+    }
+
+
+    /* <!-- nav-bar --> */
+    .nav .nav-item .nav-link{
+        border-radius:10px;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+            
+        }
+    /* <!-- discover your life --> */
+    .discover-text h1{
+        font-weight: 200;
+        font-size: 44px;
+        line-height: 66px;
+        
+     }
+     .discover-text p{
+        font-weight: 200;
+        font-size: 10px;
+        line-height: 50%;
+        padding-bottom:150px;
+    }
+    /*   <!--========================================================-->
+                <!-- this is main start --> */
+}
+
+/* ============================================================================== */
+   /* =============this is max-with:575.98px================= */
+
+
+
+@media (max-width: 575.98px) {
+           /* this is header */
+        /* =================== */
+
+    /* <!-- logo --> */
+    .loge h1{
+      
+        font-weight: 100;
+        font-size: 08px;
+        line-height: 32px;
+        
+    }
+
+
+     /* <!-- nav-bar --> */
+     .nav .nav-item .nav-link{
+        border-radius:10px;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 10px;
+            
+        }
+    /* <!-- discover your life --> */
+    .discover-text h1{
+        font-weight: 100;
+        font-size: 34px;
+        line-height: 56px;
+        
+     }
+     .discover-text p{
+        font-weight: 100;
+        font-size: 10px;
+        line-height:50%;
+       
+    }
+    /*   <!--========================================================-->
+                <!-- this is main start --> */
+
+
 }
